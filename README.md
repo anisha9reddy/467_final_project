@@ -7,3 +7,18 @@ This project predicts high mortality risk in esophageal cancer patients using ma
 ## Project Files
 - `final_project.py`: The main script for data preprocessing, model training, and evaluation.
 - `esophageal_cancer.csv`: The dataset used in the project.
+
+### Prerequisites
+Before running the project, ensure you have the following:
+- **Required Libraries**: Listed in the `requirements.txt` file.
+
+### Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+2. **Install Dependencies**:
+   pip install -r requirements.txt
+3. **Run the Script**:
+   python final_project.py
+
