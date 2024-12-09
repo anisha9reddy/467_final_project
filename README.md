@@ -13,12 +13,11 @@ Before running the project, ensure you have the following:
 - **Required Libraries**: Listed in the `requirements.txt` file.
 
 ### Instructions
-1. **Clone the Repository**:
+1. **Clone the Repository**
+2. **Install Dependencies**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-2. **Install Dependencies**:
    pip install -r requirements.txt
-3. **Run the Script**:
+3. **Run the Script**
+   ```bash
    python final_project.py
 
